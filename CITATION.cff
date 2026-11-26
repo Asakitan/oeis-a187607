@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Use this citation for the proof and its verification materials."
+title: "Two asymmetric quasi-bishop moves on rectangular boards"
+authors:
+  - family-names: "Chain.Ren"
+version: "1.0.0"
+date-released: "2026-11-27"
+license: MIT
+url: https://github.com/Asakitan/oeis-a187607/releases/tag/proof-v1.0.0
+repository-code: https://github.com/Asakitan/oeis-a187607
+preferred-citation:
+  type: report
+  title: "Two asymmetric quasi-bishop moves on rectangular boards"
+  authors:
+    - family-names: "Chain.Ren"
+  year: 2026
+  version: "1.0.0"
+  url: https://github.com/Asakitan/oeis-a187607/blob/proof-v1.0.0/PROOF.md
